@@ -1,5 +1,5 @@
 CREATE DATABASE projects;
-USE project;
+USE projects;
 CREATE TABLE customers(
 	customer_id INT PRIMARY KEY,
     name VARCHAR(50),
